@@ -1,0 +1,35 @@
+허혜정
+010-5027-5004
+gabriela
+blessme.5004@gmail.com
+
+
+*** 포토샵 단축키 ***
+-- 색채우기 --
+1) 전경색(forground Color) = alt+del(del두번)
+2) 배경색(background Color) = ctrl+del(del두번)
+
+-- 크기조절 --
+edit-free transform ---> ctrl t
+
+-- 선택해제 --
+select - deselect ----> ctrl d
+
+-- 전경색과 배경색을 전환  x(exchange)
+-- 전경색과 배경색을 기본값으로 d(default)
+
+-- 복사+붙여넣기 --
+layer -> new -> layer via copy ===> ctrl j
+layer -> new -> layer via cut ===> ctrl shift j
+
+
+** 조합키 응용 **
+shift 
+--> 정원/곧은 직선/ 수평 수직이동
+--> 선택영역 추가
+--> 가로 세로비율에 맞는 크기 조절
+
+alt 
+--> 도형의 중심점을 가운데로 시작
+--> 선택영역 빼기
+--> 이동도구와 함께 사용할 경우 복제
